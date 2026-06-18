@@ -1,5 +1,5 @@
 # Password Generator
-- A modern password generator application that allows users to create, secure and random passwords instantly.
+A modern password generator application that allows users to create, secure and random passwords instantly.
 - ## Features
 - Generate secure random passwords
 - Password strength indicator
